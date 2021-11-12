@@ -3,11 +3,11 @@
 <div id="top"></div>
 <div align="center">
   <a href="https://www.bestrobotics.org/site/">
-    <img src="../images/best-logo.jpg" alt="BEST Logo" width="330" height="202">
+    <img src="images/best-logo.jpg" alt="BEST Logo" width="330" height="202">
   </a>
   </br>
   <a href="https://github.com/BEST58">
-    <img src="../images/logo.png" alt="Team Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Team Logo" width="200" height="200">
   </a>  
   <br/>
 </div>
